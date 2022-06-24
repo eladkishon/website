@@ -18,37 +18,11 @@ module.exports = {
     about: ``,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
-      {
-        name: 'Devfolio',
-        description:
-          'A zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
-      },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
-      {
-        name: 'Acme Corp',
-        description: 'Full-Stack Developer, February 2020 - Present',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
-      }
     ],
     // Optional: List your skills, they must have `name` and `description`.
-    skills: [
-      {
-        name: 'Languages & Frameworks',
-        description:
-          'JavaScript (ES6+), Golang, Node.js, Express.js, React, Ruby on Rails, PHP',
-      },
-      {
-        name: 'Databases',
-        description: 'MongoDB, PostreSQL, MySQL',
-      },
-      {
-        name: 'Other',
-        description:
-          'Docker, Amazon Web Services (AWS), CI / CD, Microservices, API design, Agile / Scrum',
-      },
     ],
   },
   plugins: [
