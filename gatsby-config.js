@@ -17,12 +17,14 @@ module.exports = {
     // Content of the About Me section
     about: ``,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
-    projects: [
-    ],
+//     projects: [
+//     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
-    experience: [
-    ],
+//     experience: [
+//     ],
     // Optional skills : List your skills, they must have `name` and `description`.
+    //     skills: [
+//     ],
    
   },
   plugins: [
@@ -83,7 +85,7 @@ module.exports = {
         background_color: `#663399`,
         theme_color: `#663399`, // This color appears on mobile
         display: `minimal-ui`,
-        icon: `src/images/icon.png`,
+        icon: ``,
       },
     },
   ],
