@@ -22,8 +22,8 @@ module.exports = {
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
     ],
-    // Optional: List your skills, they must have `name` and `description`.
-    ],
+    // Optional skills : List your skills, they must have `name` and `description`.
+   
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
