@@ -5,27 +5,32 @@ module.exports = {
     // Your Name
     name: 'Elad Kishon',
     // Main Site Title
-    title: ``,
+    title: `Elad Kishon`,
     // Description that goes under your name in main bio
-    description: ``,
+    description: `I build things`,
     // Optional: Twitter account handle
     author: ``,
     // Optional: Github account URL
     github: `https://github.com/eladkishon`,
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/eladkishon/`,
+    medium: `https://medium.com/@eladk`,
     // Content of the About Me section
-    about: ``,
+    about: `Second engineer and team lead at Rise.ai later acquired by Wix.com,  
+             alumni of top israeli intelligence technology unit, open source advocate.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
-//     projects: [
-//     ],
+    // projects: [
+    //   {
+    //     name: `Project 1`,
+    //     description: `Description of project 1`,
+    //     link: ``
+    //   }
+    // ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
-//     experience: [
-//     ],
-    // Optional skills : List your skills, they must have `name` and `description`.
-    //     skills: [
-//     ],
-   
+    // experience: [
+    // ],
+    // Optional: List your skills, they must have `name` and `description`.
+
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
