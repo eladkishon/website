@@ -90,7 +90,7 @@ module.exports = {
         background_color: `#663399`,
         theme_color: `#663399`, // This color appears on mobile
         display: `minimal-ui`,
-        icon: ``,
+        icon: `src/images/profile.jpg`, // This path is relative to the root of the site.
       },
     },
   ],
