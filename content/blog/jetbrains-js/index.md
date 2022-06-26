@@ -1,7 +1,7 @@
 ---
-title: Enhancing my Webstorm IDE working environment
+title: Development Setup Best Practices — Run Configurations
 date: '2022-06-25'
-description: 'Using jetbrains-js to generate service Run Configurations...'
+description: 'Using jetbrains-js to generate service Run Configurations'
 ---
 
 
